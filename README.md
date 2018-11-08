@@ -10,7 +10,7 @@ So, how can we use text analysis to aid in pubic policy analysis? Here are a few
 - Analyze historical government documents
 - Understand evolution of ideologies through transcriptions of speeches
 - Understand responses to public policy by analyzing social media
-- Summarize collection of documents to find most important aspects related to policy 
+- Summarize collection of documents to find the most important topics related to a certain policy 
 
 
 ## Requirements
