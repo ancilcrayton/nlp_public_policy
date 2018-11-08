@@ -12,6 +12,14 @@ So, how can we use text analysis to aid in pubic policy analysis? Here are a few
 - Understand responses to public policy by analyzing social media
 - Summarize collection of documents to find the most important topics related to a certain policy 
 
+## What's covered?
+In general, I cover basics of text analysis and the relevant tools in Python to perform this analysis. In more detail, we will briefly look at:
+
+_Text preprocessing_: This is where we will clean text of extraneous information.
+_Feature extraction_: Transform raw text into numerical measures to feed into machine learning algorithms and perform regression analysis.
+_Topic Modelling_: ML algorithms that can learn to summarize documents into "topics".
+_Regression Analysis_: Statistical models that allows us to perform a quantitative policy analysis.
+_Tools_: We will cover basic tools within gensim, nltk, scikit learn, wordcloud, and statsmodels.
 
 ## Requirements
 The notebook provided in this repository was written in Python 3.6.
