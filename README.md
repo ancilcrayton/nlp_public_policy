@@ -1,6 +1,8 @@
 # Natural Language Processing: An Application in Public Policy
 
 This repository contains the files used for the Natural Language Processing: An Application in Public Policy talk presented at [PyCon Ireland 2018](https://pyconie18.python.ie) by Ancil Crayton.
+
+Slides to the presentation can be found [HERE](https://docs.google.com/presentation/d/1IPLswqilRDggx5I5tXdm0bqTqz39kSBdxq1-o2877Do/edit?usp=sharing).
 ## Purpose
 In this talk, I aim to show an application of NLP to enhance public policy analysis. Specifically, we will focus on using text analysis for analyzing important documents and being able to provide both a qualitative and quantitative analysis.
 
