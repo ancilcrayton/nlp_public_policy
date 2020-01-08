@@ -23,7 +23,7 @@ _Feature extraction_: Transform raw text into numerical measures to feed into ma
 
 _Topic modelling_: ML algorithms that can learn to summarize documents into "topics".  
 
-_Regression analysis_: Statistical models that allows us to perform a quantitative policy analysis.  
+_Regression analysis_: Statistical models that allow us to perform a quantitative policy analysis.  
 
 _Tools_: We will cover basic tools within Python libraries such as gensim, nltk, scikit learn, wordcloud, and statsmodels.
 
