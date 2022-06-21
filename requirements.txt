@@ -13,7 +13,7 @@ kiwisolver==1.0.1
 lxml==4.2.5
 matplotlib==3.0.1
 nltk==3.3
-numpy==1.18.1
+numpy==1.22.0
 pandas==0.23.4
 pandas-datareader==0.7.0
 patsy==0.5.1
